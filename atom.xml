@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://usergang-xiaomi.github.io/usergang/</id>
-    <title>Gridea</title>
-    <updated>2021-01-10T09:15:52.094Z</updated>
+    <title>usergang blog</title>
+    <updated>2021-01-10T09:32:09.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://usergang-xiaomi.github.io/usergang/"/>
     <link rel="self" href="https://usergang-xiaomi.github.io/usergang/atom.xml"/>
     <subtitle>get what we want</subtitle>
     <logo>https://usergang-xiaomi.github.io/usergang/images/avatar.png</logo>
     <icon>https://usergang-xiaomi.github.io/usergang/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, usergang blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Linux的发展历程]]></title>
+        <id>https://usergang-xiaomi.github.io/usergang/post/linux2/</id>
+        <link href="https://usergang-xiaomi.github.io/usergang/post/linux2/">
+        </link>
+        <updated>2021-01-10T09:17:08.000Z</updated>
+        <content type="html"><![CDATA[<p>打扫房间</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux的起源]]></title>
-        <id>https://usergang-xiaomi.github.io/usergang/post/linux-de-qi-yuan/</id>
-        <link href="https://usergang-xiaomi.github.io/usergang/post/linux-de-qi-yuan/">
+        <id>https://usergang-xiaomi.github.io/usergang/post/linux/</id>
+        <link href="https://usergang-xiaomi.github.io/usergang/post/linux/">
         </link>
         <updated>2021-01-10T08:40:23.000Z</updated>
         <content type="html"><![CDATA[<p>unix的的类操作系统</p>
