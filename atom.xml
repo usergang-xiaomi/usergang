@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://usergang-xiaomi.github.io/usergang/</id>
     <title>usergang blog</title>
-    <updated>2021-01-10T10:04:27.725Z</updated>
+    <updated>2021-01-10T10:08:31.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://usergang-xiaomi.github.io/usergang/"/>
     <link rel="self" href="https://usergang-xiaomi.github.io/usergang/atom.xml"/>
@@ -17,15 +17,6 @@
         </link>
         <updated>2021-01-10T09:44:44.000Z</updated>
         <content type="html"><![CDATA[<p>违法就反感。如何</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux的发展历程]]></title>
-        <id>https://usergang-xiaomi.github.io/usergang/post/linux2/</id>
-        <link href="https://usergang-xiaomi.github.io/usergang/post/linux2/">
-        </link>
-        <updated>2021-01-10T09:17:08.000Z</updated>
-        <content type="html"><![CDATA[<p>打扫房间</p>
 ]]></content>
     </entry>
     <entry>
